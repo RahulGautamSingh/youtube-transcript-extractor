@@ -19,11 +19,17 @@ Now your api is up and running on `localhost:3000`
 
 Go you your browser and use these urls:
 
-// Search for videos
+1. Search for videos
+```
 http://localhost:3000/api/youtube/search?query=javascript tutorial
+```
 
-// Get transcript
+2. Get transcript
+```
 http://localhost:3000/api/youtube/transcript?videoUrl=https://www.youtube.com/watch?v=dQw4w9WgXcQ
+```
 
-// Get video details
+3. Get video details
+```
 http://localhost:3000/api/youtube/video/dQw4w9WgXcQ
+```
