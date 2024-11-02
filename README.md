@@ -8,7 +8,7 @@ Watch [this video](https://www.youtube.com/watch?v=uz7dY8qTFJw&t=22s) to know ho
 
 ## Steps:
 
-1. Clone this repository [^1]
+1. Clone this repository. Refer the docs [here]([url](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository))
 2. Open the repository using VSCode or simialr IDE
 3. Add the API key you generated above in the `src/controllers/youtubeController.js` file on, line 9
 4. Open command-line and run the command `npm install` then `npm run dev`
